@@ -123,3 +123,47 @@ span{
   height: 50px;
   width: 100px;
 }
+
+/* best-offer styles */
+.best-offer{  
+  height: 400px;
+  width: 1230px;
+  padding-left: 10px;
+  
+}
+
+.best-container{
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.offer-column-title{
+  color: #FF0000;
+  font-size: 24px;
+}
+.offer-column-title2{
+  color: black;
+  font-size: 48px;
+}
+.offer-column  {
+  text-align: justify;
+  width: 300px;
+
+}
+
+
+.offer-year{
+  color: #FF0000;
+  font-size: 32px;
+}
+.offer-column-profile{
+  border: 10px solid red;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background-image: url("../images/Ellipse 1.png");
+  background-size: 250px 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
