@@ -167,3 +167,20 @@ span{
   background-repeat: no-repeat;
   background-position: center;
 }
+
+/* sale styles */
+.sale{
+   text-align: center;
+}
+.sale h5{
+  color: #070211;
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+}
+.sale p{
+  font-size: 20px;
+  font-weight: 300;
+  margin: 0;
+}
+ 
