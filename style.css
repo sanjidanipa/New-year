@@ -184,3 +184,10 @@ span{
   margin: 0;
 }
  
+/* .sale-discount styles */
+.sale-discount{
+ display: flex;
+ background-image: url("../images/Rectangle 2.png");
+ background-repeat: no-repeat;
+ background-position: bottom;
+}
