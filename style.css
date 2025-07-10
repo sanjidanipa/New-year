@@ -191,3 +191,31 @@ span{
  background-repeat: no-repeat;
  background-position: bottom;
 }
+
+/* gift styles */
+ .gifts {
+  margin-left: 20px;
+  width: 1163px;
+
+ }
+.gifts h5{
+  font-size: 20px;
+  padding: 5px;
+}
+.gifts p{
+  font-size: 20px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.best-gift{
+  display: flex;
+  flex-wrap: wrap;
+  width: 1350px;
+}
+.gift {
+  height: 424px;
+  width: 450px;
+  border-radius: 10px;
+  padding-bottom: 40px;
+}
