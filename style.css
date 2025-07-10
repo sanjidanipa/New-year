@@ -27,7 +27,6 @@ main{
     background-repeat: no-repeat;
    height: 600px;
    color: #ffffff;
-   
    text-align: center;
    justify-content: center;
 }
@@ -45,3 +44,14 @@ main{
 section h1{
   font-size: 72px;
   }
+
+  /* discount styles */
+ 
+.discount{
+  
+  text-align: center;
+  
+}
+.discount h1,h5{
+  color: #FF0000;
+}
