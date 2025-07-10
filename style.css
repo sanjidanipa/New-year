@@ -85,6 +85,12 @@ section h1{
   font-variation-settings:
     "wdth" 100;
 }
+.join-now{
+font-size: 20px;
+ margin-top: 20px;
+ border: none;
+ 
+}
 
 /* join styles */
 .join{
