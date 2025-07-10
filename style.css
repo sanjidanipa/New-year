@@ -55,3 +55,33 @@ section h1{
 .discount h1,h5{
   color: #FF0000;
 }
+
+/* join party styles */
+
+.join-party{
+  background-image: url("../images/vectorrr.png");
+  background-repeat: no-repeat;
+  height: 600px;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.join-party h1{
+  color: #ffffff;
+}
+.join-party p{
+  color: #ffffff;
+}
+.join-party a{
+  text-decoration: none;
+  padding-left: 10px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
